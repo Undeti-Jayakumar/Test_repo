@@ -3,3 +3,6 @@ adding new update line by Jerry
 adding new update line by Tom
 removing the old line by TOM
 adding a new test line
+Hi,
+
+I am jerry, i am a software programmer and i build systems.
